@@ -47,7 +47,9 @@ The model.py file contains the code for training and saving the convolution neur
 
 #### 1. An appropriate model architecture has been employed
 
-I utilized the Nvidia convolutional neural networks according to this paper: https://devblogs.nvidia.com/parallelforall/deep-learning-self-driving-cars/. The details of the model architecture is given by: ![Nvidia CNN][image1]
+I utilized the Nvidia convolutional neural networks according to this paper: https://devblogs.nvidia.com/parallelforall/deep-learning-self-driving-cars/. The details of the model architecture is given by: ![Nvidia CNN][image2]
+
+In Keras, you can see the model summary as model.summary() as well: ![Model Summary][image3]
 
 #### 2. Attempts to reduce overfitting in the model
 
